@@ -1,1 +1,1 @@
-node gun_server.js
+node app.js
